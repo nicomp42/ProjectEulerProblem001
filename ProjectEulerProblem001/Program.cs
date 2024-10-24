@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*
+* Name: Peter Phan
+* email:  phanpv@mail.uc.edu
+* Assignment Number: Assignment INCLASS 
+* Due Date:   10 / 24 / 2024
+* Course #/Section:   IS3050-001
+* Semester / Year:   Fall semester 2024
+* Brief Description of the assignment:  Learning about Github features alongside C#
+
+* Brief Description of what this module does. Introduce us to Methods and Github in C#
+* Citations:
+* Anything else that's relevant:
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
