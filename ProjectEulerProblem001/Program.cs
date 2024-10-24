@@ -1,4 +1,12 @@
-﻿using System;
+﻿// Name:Rithu Aynampudi 
+// Email: Aynampru@mail.uc.edu 
+// Assignment: InClass 10/24 
+// Due Date: 10/24 
+// Course: IS3050001 
+// Semester: Fall 2024 
+// Brief Description: GitHub cloning 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
