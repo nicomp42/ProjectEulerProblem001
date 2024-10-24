@@ -1,4 +1,17 @@
-﻿using System;
+﻿/* Name: Liam Vasey
+*email:  vaseylh@mail.uc.edu
+*Assignment Number: InClass 10/25/24
+*Due Date: 10/25/24
+*Course #/Section:   IS3050-001
+* Semester / Year:   Fall 2024
+*Brief Description of the assignment:  GitHub Clone
+
+*Brief Description of what this module does. Clone a GetHub repository
+*Citations:
+*Anything else that's relevant:
+*/
+ 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
