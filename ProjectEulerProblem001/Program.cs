@@ -1,4 +1,16 @@
-﻿using System;
+﻿/* 
+*Name: Madison Geier
+*email:  geierml@mail.uc.edu
+*Assignment Number: In class 10/24/24
+*Due Date: n/a
+*Course #/Section:   is3050 001
+* Semester / Year:   fall 24
+*Brief Description of the assignment: git hub 
+
+ */
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
