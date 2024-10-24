@@ -1,4 +1,14 @@
-﻿using System;
+﻿/* Name: Connor Thomas
+* email: thoma5cg@mail.uc.edu
+* Assignment Number: Assignment InClass10242024
+* Due Date: 10/24/24
+* Course #/Section: IS3050/001
+* Semester/Year: 1st/4th
+* Brief Description of the assignment: This project is an in class assignment on Github
+* Citations:
+* Anything else that's relevant:
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
