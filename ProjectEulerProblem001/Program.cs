@@ -1,4 +1,12 @@
-﻿using System;
+﻿//Program Documentation here:
+// Name: Sharvari Patil
+// email: patilsg@mail.uc.edu
+// Assignment Title: MInClass
+// Due Date: 10/17/2024
+//Course: IS 3050
+// Semester/Year: Fall 24 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
