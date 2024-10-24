@@ -1,4 +1,19 @@
-﻿using System;
+﻿/* 
+Name: Michael Slivinski
+# Email: slivinmb@mail.uc.edu
+# Assignment Title: In class 10/24/2024
+# Due Date: 10/24/2024
+# Course: IS 3050
+# Semester/Year: Fall 2024
+# Brief Description: 
+# Citations:
+# Anything else that's relevant:
+*/
+
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
