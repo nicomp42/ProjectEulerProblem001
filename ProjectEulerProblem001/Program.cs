@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+# Name:Hailey Manuel
+# email: manuelhv@mail.uc.edu
+# Assignment Title: InClass10242024
+# Due Date: Not sure 
+# Course: IS 3050
+# Semester/Year: Fall 2024
+# Brief Description: This project is us having fun and learning how to use GitHub
+# Citations:
+# Anything else that's relevant:
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
