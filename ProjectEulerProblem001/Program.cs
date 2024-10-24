@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+ Name: Annapoorna Nair
+ email: nairap@mail.uc.edu
+ Assignment Title: Github Clone
+ Due Date: Oct 16, 2024
+ Course: IS 3050
+ Semester/Year: Fall 2024
+ Brief Description: Github Clone
+ Citations:
+ Anything else that's relevant:
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
