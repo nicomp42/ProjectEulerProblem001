@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*Name:Ryan Jacob
+email: Jacobry@mail.uc.edu
+Assignment Number: In Class 10-24
+Due Date:
+Course #/Section: IS3050-001
+Semester / Year: Fall 2024
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
