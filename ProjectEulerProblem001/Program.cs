@@ -1,4 +1,9 @@
-﻿using System;
+﻿//Program Documentation:
+//Name: Jacob Brumfield
+//Email: brumfijb@mail.uc.edu
+//Assignment Title: GitHub
+//Course: IS 3050 Fall 2024
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
