@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+# Name: Drew Wolfe
+# email: wolfeaw@mail.uc.edu
+# Assignment Title: Assignment InClass20241024
+# Due Date: 10/24/24
+# Course: IS 3050
+# Semester/Year: Semester 1, Year 4
+# Brief Description: This project is an in class project working with GitHub
+# Citations:
+# Anything else that's relevant:
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
